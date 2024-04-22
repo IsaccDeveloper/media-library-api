@@ -1,0 +1,25 @@
+# Dependencias instaladas
+/node_modules
+
+# Archivos de registro
+npm-debug.log
+yarn-error.log
+
+# Archivos generados en la ejecución
+dist/
+build/
+
+# Archivos de configuración locales
+.env
+
+# Archivos de respaldo
+*.bak
+*.backup
+*.swp
+.DS_Store
+
+# Archivos de datos de MongoDB
+/data
+/db
+*.db
+*.log
