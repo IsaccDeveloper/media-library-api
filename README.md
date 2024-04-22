@@ -34,14 +34,4 @@ Este proyecto es una API para una biblioteca de medios que permite administrar y
     npm run dev
     ```
 
-2. La API estará disponible en `http://localhost:puerto`, donde `puerto` es el número de puerto configurado en tu entorno de desarrollo.
-
-3. Accede a la API utilizando herramientas como Postman o curl para realizar solicitudes HTTP a los endpoints proporcionados.
-
-## Contribución
-
-Si deseas contribuir a este proyecto, ¡estamos abiertos a sugerencias y mejoras! Siéntete libre de abrir un issue o enviar un pull request.
-
-## Licencia
-
-Este proyecto está bajo la Licencia [MIT](LICENSE).
+2. La API estará disponible en `http://localhost:3000`
